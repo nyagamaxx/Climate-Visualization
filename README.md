@@ -160,6 +160,3 @@ China,Asia,2020,1,12.3,-0.2
 
 ---
 
-## License
-
-MIT License
